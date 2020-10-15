@@ -5,7 +5,7 @@ This program is a virtual desktop assistant which can perform different tasks wi
 ## [ Installation ]
 
 Should have the following modules and libraries installed to run this program<br/>
-➢ Pyttsx3(version 2.10.0) (text-to-speech conversion library)<br/>
+➢ *Pyttsx3* (version 2.10.0) (text-to-speech conversion library)<br/>
 ➢ os (module to interact with operating system)<br/>
 ➢ SpeechRecognition (Library for performing speech recognition, with support for several engines and APIs)<br/>
 ➢ bs4 (library for pulling data out of HTML and XML files)<br/>
@@ -22,18 +22,18 @@ Should have the following modules and libraries installed to run this program<br
 
 ## [ Features ]
 
-1.It can perform Wikipedia search.<br/>
-2.It can extract google search results.<br/>
-3.It will tell you latest daily google headlines.<br/>
-4.It can make you laugh by telling random jokes.<br/>
-5.It can tell you time.<br/>
-6.It can update you with weather conditions.<br/>
-7.It can open applications in your system, you should just have to provide path to application.<br/>
-8.It can change your desktop wallpaper.v
-9.It is able to send emails to any email address. (First you have to on the option of less secure access. manage your google account -> security -> less secure app access then turned it on)<br/>
-10.It will also greet you in the start of program execution.<br/>
-11.You can open any website of your choice.<br/>
-12.It can refresh your mood by playing different genre of music.v
+1. It can perform Wikipedia search.<br/>
+2. It can extract google search results.<br/>
+3. It will tell you latest daily google headlines.<br/>
+4. It can make you laugh by telling random jokes.<br/>
+5. It can tell you time.<br/>
+6. It can update you with weather conditions.<br/>
+7. It can open applications in your system, you should just have to provide path to application.<br/>
+8. It can change your desktop wallpaper.v
+9. It is able to send emails to any email address. (First you have to on the option of less secure access. manage your google account -> security -> less secure app access then turned it on)<br/>
+10. It will also greet you in the start of program execution.<br/>
+11. You can open any website of your choice.<br/>
+12. It can refresh your mood by playing different genre of music.
 
 ## [ Future Enhancement ]
 In the future we have thought that we would build this program in GUI (Graphical User Interface). In this way it would be more user friendly and more easy to handle.
