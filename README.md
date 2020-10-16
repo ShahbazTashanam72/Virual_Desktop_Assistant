@@ -2,7 +2,7 @@
 # Virual_Desktop_Assistant
 This program is a virtual desktop assistant which can perform different tasks ***without any physical contact by keyboard or mouse.*** It is controlled by your voice and you can enable it to perform different tasks by giving voice commands.
 
-[ ## Installation ]
+## [Installation]
 
 Should have the following modules and libraries installed to run this program<br/>
 ➢ *Pyttsx3* (version 2.10.0) (text-to-speech conversion library)<br/>
@@ -20,7 +20,7 @@ Should have the following modules and libraries installed to run this program<br
 ➢ *Pyaudio* (PyAudio provides Python bindings for PortAudio, the cross-platform audio I/O library)<br/>
 (First you have to install wheel file from https://www.lfd.uci.edu/~gohlke/pythonlibs/ then pip install (the name of the version you have downloaded). In case of 64-bit python 3.8 write in terminal pip install PyAudio-0.2.11-cp38-cp38-win_amd64.whl ).<br/>
 
-[ ## Features ]
+## [Features]
 
 1. It can perform Wikipedia search.<br/>
 2. It can extract google search results.<br/>
@@ -35,9 +35,9 @@ Should have the following modules and libraries installed to run this program<br
 11. You can open any website of your choice.<br/>
 12. It can refresh your mood by playing different genre of music.
 
-[## Future Enhancement ]
+## [Future Enhancement]
 In the future we have thought that we would build this program in GUI (Graphical User Interface). In this way it would be more user friendly and more easy to handle.
-[## How it Works ]
+## [How it Works]
 Our application is programmed in a such a way that it will speak and ask the user to input any command through voice. The user will give it a command in audio format and our program will run and search for the specific command given and then it will execute that part of the code containing the command and it will give output. The output can be in the form of audio, a paragraph, or web browsing. We have formed different classes containing different attributes and methods. These classes and methods perform different functions. Our main class has a while loop which contains multiple if elif statements which will continuously ask the user for command and the it will call the method of a specific class and execute it. The program will run until the user say “terminate” or “shut down”. Your input should contain the keywords like , “wikipedia” , “website” , “time” , “email” , “weather" , "news" , "joke" , "google search" , "song" , "music" , "open application" , "background".
 
 Go to folder ***Virtual_Desktop_Assistant** and then run the main file which is ***Desktop_Assistant.py***
