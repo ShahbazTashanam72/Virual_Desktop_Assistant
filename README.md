@@ -44,5 +44,5 @@ Go to folder ***Virtual_Desktop_Assistant** and then run the main file which is 
 
 *NOTE: / In file password.txt there is a list write your email as first element and password as second element both in string . You can further add emails in emailcontact.txt.*
 
-##DEMO
-There is a Demo Video ***DEMO_Virtual_Desktop_Assistant***, you can find in it how the program works!!
+## [ DEMO ]
+There is a Demo Video ***DEMO_Virtual_Desktop_Assistant***, you can find how the program works in it!!
